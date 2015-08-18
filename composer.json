@@ -1,0 +1,11 @@
+{
+    "name": "ssx/statuscake-ping",
+    "description": "This trait will ping off to statuscake on destruct of your class.",
+    "authors": [
+        {
+            "name": "Scott Wilcox",
+            "email": "scott@dor.ky"
+        }
+    ],
+    "require": {}
+}
