@@ -5,7 +5,7 @@ Trait ManualPing {
 
 	public function ping() {
 		// Send our ping back to StatusCake
-       	$this->sendPing();
+       	return $this->sendPing();
    }
 
 }

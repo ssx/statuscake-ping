@@ -5,7 +5,7 @@ Trait DestructPing {
 
 	public function __destruct() {
 		// Send our ping back to StatusCake
-       	$this->sendPing();   	
+       	return $this->sendPing();   	
    }
 
 }
