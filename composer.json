@@ -1,6 +1,10 @@
 {
     "name": "ssx/statuscake-ping",
     "description": "This package provides a couple of traits to be used with push tests for StatusCake.",
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/ssx/statuscake-ping/issues",
+    },
     "authors": [
         {
             "name": "Scott Wilcox",
