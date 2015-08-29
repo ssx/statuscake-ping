@@ -1,6 +1,6 @@
 {
     "name": "ssx/statuscake-ping",
-    "description": "This package provides a couple of traits to be used with StatusCake's push tests.",
+    "description": "This package provides a couple of traits to be used with push tests for StatusCake.",
     "authors": [
         {
             "name": "Scott Wilcox",
@@ -10,7 +10,7 @@
     "require": {
         "guzzlehttp/guzzle": "~6.0"
     },
-	"autoload": {
+    "autoload": {
         "psr-4": {
             "SSX\\StatusCake\\": "src/Statuscake/"
         }
