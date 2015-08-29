@@ -1,6 +1,6 @@
 {
     "name": "ssx/statuscake-ping",
-    "description": "This trait will ping off to statuscake on destruct of your class.",
+    "description": "This package provides a couple of traits to be used with StatusCake's push tests.",
     "authors": [
         {
             "name": "Scott Wilcox",
