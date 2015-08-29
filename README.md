@@ -12,3 +12,13 @@ Make sure to set the env variables `STATUSCAKE_KEY` and also `STATUSCAKE_TESTID`
 
 Push notification documentation can be found at:
 http://kb.statuscake.com/hc/en-us/articles/203808141-Push-Monitoring
+
+
+### Tests
+
+To run the included tests, edit phpunit.xml and set the following variables:
+
+        <env name="STATUSCAKE_PK" value="dfa375e414765d6"/>
+        <env name="STATUSCAKE_TESTID" value="543345"/>
+
+To match yours test credentials.        
